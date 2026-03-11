@@ -1,4 +1,4 @@
-# ＝LOVE（イコールラブ）公式チャンネル – 絶対アイドル辞めないで
+# =LOVE – 絶対アイドル辞めないで (＝LOVE 7th ANNIVERSARY PREMIUM CONCERT)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
