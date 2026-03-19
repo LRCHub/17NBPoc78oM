@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "絶対アイドル辞めないで (＝LOVE 7th ANNIVERSARY PREMIUM CONCERT)",
+  "base_track": "絶対アイドル辞めないで",
   "base_artist": "=LOVE",
-  "createdAt": "2026-03-11T10:19:24.959699Z",
+  "createdAt": "2026-03-19T01:52:27.795166Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,33 @@
       "artist": "=LOVE",
       "has_synced": false,
       "path": "select/pl_01_絶対アイドル辞めないで_=LOVE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "絶対アイドル辞めないで",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_01_絶対アイドル辞めないで_=LOVE.lrc",
+      "repo_name": "17NBPoc78oM"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "絶対アイドル辞めないで",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/localdb_02_絶対アイドル辞めないで_=LOVE.txt",
+      "repo_name": "Ul8cu_gVLpY"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "絶対アイドル辞めないで",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_03_絶対アイドル辞めないで_=LOVE.lrc",
+      "repo_name": "eO0MwLMrY6c"
     }
   ]
 }
