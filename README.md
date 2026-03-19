@@ -1,4 +1,4 @@
-# =LOVE – 絶対アイドル辞めないで (＝LOVE 7th ANNIVERSARY PREMIUM CONCERT)
+# =LOVE – 絶対アイドル辞めないで
 
 > **歌詞登録ステータス：同期歌詞あり**
 
